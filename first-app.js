@@ -1,15 +1,12 @@
-    // Add the FileSystem Module from node.js
-    const fs = require ('fs');
+// Add the FileSystem Module from node.js
+const fs = require ('fs');
 
-    //fs.writeFileSync('')
-    console.log('Hello Node.JS');
+//fs.writeFileSync('')
+console.log('Hello Node.JS');
 
-    // This is a new Line to Test GitHub
-       // Add the FileSystem Module from node.js
-    //const fs = require ('fs');
-
-    //fs.writeFileSync('')
-    console.log('Hello Node.JS');
+// This is a new Line to Test GitHub
+// Add the FileSystem Module from node.js
+//const fs = require ('fs');
 
 const http = require('http');
 const port = process.env.PORT || 7777;
